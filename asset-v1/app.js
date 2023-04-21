@@ -1,6 +1,6 @@
 /*hehe it's my first mod*/
 var app = new function() {
-    this.name = "Stargold", this.version = "1", this.date = "2023", this.folder = "asset-v1/", this.looptime = 5333, this.bpm = 90, this.totalframe = 260, this.nbpolo = 7, this.nbloopbonus = 2, this.bonusloopA = !1, this.bonusendloopA = !1, this.recmaxloop = 34, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#03061B", this.col0 = "#001044", this.col1 = "#22225F", this.col2 = "#4343AD", this.col3 = "#4E4EC7", this.col4 = "#6464FB", this.animearray = [{
+    this.name = "Stargold", this.version = "1", this.date = "2023", this.folder = "asset-v1/", this.looptime = 6400, this.bpm = 150, this.totalframe = 260, this.nbpolo = 7, this.nbloopbonus = 2, this.bonusloopA = !1, this.bonusendloopA = !1, this.recmaxloop = 34, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#03061B", this.col0 = "#001044", this.col1 = "#22225F", this.col2 = "#4343AD", this.col3 = "#4E4EC7", this.col4 = "#6464FB", this.animearray = [{
         name: "1_poom",
         color: "4B7D4C",
         uniqsnd: !1
