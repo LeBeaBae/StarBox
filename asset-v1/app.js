@@ -37,9 +37,9 @@ var app = new function() {
         color: "F1A502",
         uniqsnd: !0
     }, {
-        name: "10_",
+        name: "10_dist",
         color: "F1A502",
-        uniqsnd: !0
+        uniqsnd: !1
     }, {
         name: "11_hound",
         color: "292651",
