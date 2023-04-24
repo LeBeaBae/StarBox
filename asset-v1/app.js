@@ -7,7 +7,7 @@ var app = new function() {
     }, {
         name: "2_snic",
         color: "D8355E",
-        uniqsnd: !0
+        uniqsnd: !1
     }, {
         name: "3_tisk",
         color: "D8355E",
