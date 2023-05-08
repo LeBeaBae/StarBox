@@ -51,7 +51,7 @@ var app = new function() {
     }, {
         name: "13_",
         color: "2E2747",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "14_selk",
         color: "2E2747",
@@ -67,15 +67,15 @@ var app = new function() {
     }, {
         name: "17_starlight",
         color: "00AACD",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "18_constil",
         color: "00AACD",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "19_ether",
         color: "00AACD",
-        uniqsnd: !1
+        uniqsnd: !0
     }], this.bonusarray = [{
         name: "Morse",
         src: "bonus-morse.mp4",
