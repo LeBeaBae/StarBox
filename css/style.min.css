@@ -462,9 +462,9 @@ body.miniPlayer #lock-pause .bt .bck {
     position: absolute;
     top: 110px;
     left: 50%;
-    width: 261.432px;
+    width: 500px;
     margin-left: -215px;
-    height: 94.878px;
+    height: 108px;
     -webkit-transform: translateY(0);
     transform: translateY(0);
     pointer-events: none;
