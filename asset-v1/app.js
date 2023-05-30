@@ -76,6 +76,10 @@ var app = new function() {
         name: "19_ether",
         color: "00AACD",
         uniqsnd: !0
+    }, {
+        name: "20_",
+        color: "00AACD",
+        uniqsnd: !0
     }], this.bonusarray = [{
         name: "Morse",
         src: "bonus-morse.mp4",
