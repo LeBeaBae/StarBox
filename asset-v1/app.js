@@ -85,7 +85,8 @@ var app = new function() {
         src: "bonus-morse.mp4",
         code: "1,4,6,11,15",
         sound: "bonus-morse",
-        aspire: "aspire-morse"
+        aspire: "aspire-morse",
+        expire: "expire-morse"
     }];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
         var a = this.animearray[n].name;
