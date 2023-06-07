@@ -37,7 +37,7 @@ var app = new function() {
         color: "F1A502",
         uniqsnd: !0
     }, {
-        name: "10_dist",
+        name: "10_thunder",
         color: "F1A502",
         uniqsnd: !1
     }, {
@@ -49,7 +49,7 @@ var app = new function() {
         color: "2E2747",
         uniqsnd: !1
     }, {
-        name: "13_",
+        name: "13_shine",
         color: "2E2747",
         uniqsnd: !0
     }, {
