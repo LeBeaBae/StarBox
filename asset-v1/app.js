@@ -39,7 +39,7 @@ var app = new function() {
     }, {
         name: "10_thunder",
         color: "F1A502",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "11_hound",
         color: "2E2747",
