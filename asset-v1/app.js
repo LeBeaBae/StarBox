@@ -47,7 +47,7 @@ var app = new function() {
     },], this.bonusarray = [{
         name: "Morse",
         src: "bonus-morse.mp4",
-        code: "1,4,6,11,15",
+        code: "1,2,3,6,8",
         sound: "bonus-morse",
         aspire: "aspire-morse",
         expire: "expire-morse"
