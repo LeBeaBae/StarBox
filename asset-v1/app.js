@@ -5,19 +5,7 @@ var app = new function() {
         color: "D8355E",
         uniqsnd: !1
     }, {
-        name: "2_snic",
-        color: "D8355E",
-        uniqsnd: !1
-    }, {
-        name: "3_tisk",
-        color: "D8355E",
-        uniqsnd: !0
-    }, {
         name: "4_shika",
-        color: "D8355E",
-        uniqsnd: !0
-    }, {
-        name: "5_sweep",
         color: "D8355E",
         uniqsnd: !0
     }, {
@@ -29,15 +17,7 @@ var app = new function() {
         color: "F1A502",
         uniqsnd: !0
     }, {
-        name: "8_error",
-        color: "F1A502",
-        uniqsnd: !1
-    }, {
         name: "9_radar",
-        color: "F1A502",
-        uniqsnd: !0
-    }, {
-        name: "10_thunder",
         color: "F1A502",
         uniqsnd: !0
     }, {
@@ -49,20 +29,8 @@ var app = new function() {
         color: "2E2747",
         uniqsnd: !1
     }, {
-        name: "13_shine",
-        color: "2E2747",
-        uniqsnd: !0
-    }, {
-        name: "14_selk",
-        color: "2E2747",
-        uniqsnd: !1
-    }, {
         name: "15_morse",
         color: "2E2747",
-        uniqsnd: !1
-    }, {
-        name: "16_void",
-        color: "00AACD",
         uniqsnd: !1
     }, {
         name: "17_starlight",
@@ -76,11 +44,7 @@ var app = new function() {
         name: "19_ether",
         color: "00AACD",
         uniqsnd: !0
-    }, {
-        name: "20_",
-        color: "00AACD",
-        uniqsnd: !0
-    }], this.bonusarray = [{
+    },], this.bonusarray = [{
         name: "Morse",
         src: "bonus-morse.mp4",
         code: "1,4,6,11,15",
