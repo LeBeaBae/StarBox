@@ -4688,7 +4688,7 @@ video::-webkit-media-controls {
 #game #box-bottom #box-picto .picto .scale {
     width: 68px;
     height: 68px;
-    background-size: 1360px 136px;
+    background-size: 748px 136px;
     background-repeat: no-repeat;
     border-radius: 14px;
     transition: opacity .4s ease-out;
